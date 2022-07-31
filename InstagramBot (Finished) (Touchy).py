@@ -1,6 +1,6 @@
 from instabot import Bot
 bot = Bot()
-bot.login(username='jkurianza', password='_82$TiQ<)s')
+bot.login(username='', password='')
 
 ######  upload a picture #######
 #bot.upload_photo("yoda.jpg", caption="biscuit eating baby")
@@ -12,7 +12,7 @@ bot.login(username='jkurianza', password='_82$TiQ<)s')
 #bot.send_message("Hello from Dhaval", ['user1','user2'])
 
 ######  get follower info #######
-my_followers = bot.get_user_followers('urianza_amanda')
+my_followers = bot.get_user_followers('')
 pass
 
 #for follower in my_followers:
